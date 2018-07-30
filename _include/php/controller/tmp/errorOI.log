@@ -1,0 +1,3554 @@
+
+ 00-29-14inicio subida de queja  
+ 2018-07-27 00:29:14 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 35739027_1787887317943764_7123051252933459968_n.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php57FE.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 00:29:15 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','sdf',6,now(),'')
+ 2018-07-27 00:29:15 fileName: 35739027_1787887317943764_7123051252933459968_n.jpg
+ 2018-07-27 00:29:15 tipo: 2
+2018-07-27 00:29:15 query de las imangenes ::INSERT INTO imagenes VALUES(0,'35739027_1787887317943764_7123051252933459968_n.jpg','sdf','/uploads/',1,1,0,'','')
+2018-07-27 00:29:15 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:29:15 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:29:15 fileName: 
+ 2018-07-27 00:29:15 tipo: 
+ 2018-07-27 00:29:15 fileName: 
+ 2018-07-27 00:29:15 tipo: 
+ 00-29-15inicio subida de queja  
+ 2018-07-27 00:29:15 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 35739027_1787887317943764_7123051252933459968_n.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php5C16.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 00:29:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','sdf',6,now(),'')
+ 2018-07-27 00:29:16 fileName: 35739027_1787887317943764_7123051252933459968_n.jpg
+ 2018-07-27 00:29:16 tipo: 2
+2018-07-27 00:29:16 query de las imangenes ::INSERT INTO imagenes VALUES(0,'35739027_1787887317943764_7123051252933459968_n.jpg','sdf','/uploads/',1,1,0,'','')
+2018-07-27 00:29:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:29:16 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:29:16 fileName: 
+ 00-29-16inicio subida de queja  
+ 2018-07-27 00:29:16 tipo: 
+ 2018-07-27 00:29:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 35739027_1787887317943764_7123051252933459968_n.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php5CD2.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 00:29:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','sdf',6,now(),'')
+ 2018-07-27 00:29:16 fileName: 35739027_1787887317943764_7123051252933459968_n.jpg
+ 2018-07-27 00:29:16 tipo: 2
+2018-07-27 00:29:16 query de las imangenes ::INSERT INTO imagenes VALUES(0,'35739027_1787887317943764_7123051252933459968_n.jpg','sdf','/uploads/',1,1,0,'','')
+ 2018-07-27 00:29:16 tipo: 
+ 00-29-16inicio subida de queja  
+2018-07-27 00:29:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:29:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 35739027_1787887317943764_7123051252933459968_n.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php5D9E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 00:29:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','sdf',6,now(),'')
+ 2018-07-27 00:29:16 fileName: 35739027_1787887317943764_7123051252933459968_n.jpg
+ 2018-07-27 00:29:16 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:29:16 tipo: 2
+ 2018-07-27 00:29:16 fileName: 
+2018-07-27 00:29:16 query de las imangenes ::INSERT INTO imagenes VALUES(0,'35739027_1787887317943764_7123051252933459968_n.jpg','sdf','/uploads/',1,1,0,'','')
+ 2018-07-27 00:29:16 tipo: 
+ 2018-07-27 00:29:16 fileName: 
+ 2018-07-27 00:29:16 tipo: 
+2018-07-27 00:29:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:29:16 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:29:16 fileName: 
+ 2018-07-27 00:29:16 tipo: 
+ 2018-07-27 00:29:16 fileName: 
+ 2018-07-27 00:29:16 tipo: 
+ 00-31-03inicio subida de queja  <br/>
+ 2018-07-27 00:31:04 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 35739027_1787887317943764_7123051252933459968_n.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php247.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 00:31:04 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','sdf',6,now(),'')
+ 2018-07-27 00:31:04 fileName: 35739027_1787887317943764_7123051252933459968_n.jpg
+ 2018-07-27 00:31:04 tipo: 2
+2018-07-27 00:31:04 query de las imangenes ::INSERT INTO imagenes VALUES(0,'35739027_1787887317943764_7123051252933459968_n.jpg','sdf','/uploads/',1,1,0,'','')
+2018-07-27 00:31:04 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:31:04 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:31:04 fileName: 
+ 2018-07-27 00:31:04 tipo: 
+ 2018-07-27 00:31:04 fileName: 
+ 2018-07-27 00:31:04 tipo: 
+ 00-37-40inicio subida de queja  <br/>
+ 2018-07-27 00:37:41 files está compuesto por: Array
+(
+)
+
+ 00-37-44inicio subida de queja  <br/>
+ 2018-07-27 00:37:44 files está compuesto por: Array
+(
+)
+
+ 00-38-57inicio subida de queja  <br/>
+ 2018-07-27 00:38:57 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => imagen222.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php3D2C.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-38-57inicio de conexion a la base de datos  <br/>
+2018-07-27 00:38:57 query insert case:: INSERT INTO casos VALUES(0,1,1,'dsf','fsdfsd',6,now(),'')
+ 2018-07-27 00:38:57 fileName: imagen222.jpg
+ 2018-07-27 00:38:57 tipo: 2
+2018-07-27 00:38:57 query de las imangenes ::INSERT INTO imagenes VALUES(0,'imagen222.jpg','fsdfsd','/uploads/',1,1,0,'','')
+2018-07-27 00:38:58 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:38:58 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:38:58 fileName: 
+ 2018-07-27 00:38:58 tipo: 
+ 2018-07-27 00:38:58 fileName: 
+ 2018-07-27 00:38:58 tipo: 
+ 00-38-58inicio subida de queja  <br/>
+ 2018-07-27 00:38:58 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => imagen222.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php4144.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-38-58inicio de conexion a la base de datos  <br/>
+2018-07-27 00:38:58 query insert case:: INSERT INTO casos VALUES(0,1,1,'dsf','fsdfsd',6,now(),'')
+ 2018-07-27 00:38:58 fileName: imagen222.jpg
+ 2018-07-27 00:38:58 tipo: 2
+2018-07-27 00:38:58 query de las imangenes ::INSERT INTO imagenes VALUES(0,'imagen222.jpg','fsdfsd','/uploads/',1,1,0,'','')
+2018-07-27 00:38:59 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:38:59 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:38:59 fileName: 
+ 2018-07-27 00:38:59 tipo: 
+ 2018-07-27 00:38:59 fileName: 
+ 00-38-59inicio subida de queja  <br/>
+ 2018-07-27 00:38:59 tipo: 
+ 00-38-59inicio subida de queja  <br/>
+ 2018-07-27 00:38:59 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => imagen222.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php423F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-38-59inicio de conexion a la base de datos  <br/>
+2018-07-27 00:38:59 query insert case:: INSERT INTO casos VALUES(0,1,1,'dsf','fsdfsd',6,now(),'')
+ 2018-07-27 00:38:59 fileName: imagen222.jpg
+ 2018-07-27 00:38:59 tipo: 2
+2018-07-27 00:38:59 query de las imangenes ::INSERT INTO imagenes VALUES(0,'imagen222.jpg','fsdfsd','/uploads/',1,1,0,'','')
+ 2018-07-27 00:38:59 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => imagen222.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php426F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 53944
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-38-59inicio de conexion a la base de datos  <br/>
+2018-07-27 00:38:59 query insert case:: INSERT INTO casos VALUES(0,1,1,'dsf','fsdfsd',6,now(),'')
+ 2018-07-27 00:38:59 fileName: imagen222.jpg
+ 2018-07-27 00:38:59 tipo: 2
+2018-07-27 00:38:59 query de las imangenes ::INSERT INTO imagenes VALUES(0,'imagen222.jpg','fsdfsd','/uploads/',1,1,0,'','')
+2018-07-27 00:38:59 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:38:59 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:38:59 fileName: 
+2018-07-27 00:38:59 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-27 00:38:59 tipo: 
+ 2018-07-27 00:38:59 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-27 00:38:59 fileName: 
+ 2018-07-27 00:38:59 fileName: 
+ 2018-07-27 00:38:59 tipo: 
+ 2018-07-27 00:38:59 tipo: 
+ 2018-07-27 00:38:59 fileName: 
+ 2018-07-27 00:38:59 tipo: 
+ 00-55-30inicio subida de queja  
+ 2018-07-27 00:55:30 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php6197.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-55-30inicio de conexion a la base de datos  <br/>
+2018-07-27 00:55:30 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 00:55:30 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 00:55:30 fileName: printer.PNG
+ 2018-07-27 00:55:30 tipo: 3
+ 00-55-31inicio subida de queja  
+ 2018-07-27 00:55:31 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php667A.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 00-55-31inicio de conexion a la base de datos  <br/>
+2018-07-27 00:55:31 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 00:55:31 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 00:55:31 fileName: printer.PNG
+ 2018-07-27 00:55:31 tipo: 3
+ 01-02-46inicio subida de queja  
+ 2018-07-27 01:02:46 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php88A.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 01-02-46inicio de conexion a la base de datos  <br/>
+2018-07-27 01:02:46 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 01:02:46 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 01:02:46 fileName: printer.PNG
+ 2018-07-27 01:02:46 tipo: 3
+ 01-02-47inicio subida de queja  
+ 2018-07-27 01:02:47 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpEA6.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+ 01-02-47inicio de conexion a la base de datos  <br/>
+2018-07-27 01:02:47 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 01:02:47 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 01:02:47 fileName: printer.PNG
+ 2018-07-27 01:02:47 tipo: 3
+ 01-10-26inicio subida de queja  
+ 2018-07-27 01:10:26 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpE18.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 01:10:26 llamando a getConextion:: 
+ 01-10-26inicio de conexion a la base de datos  <br/>
+ 01-10-26conexion exitosa? <br/>00000
+2018-07-27 01:10:26 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 01:10:26 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 01:10:26 fileName: printer.PNG
+ 2018-07-27 01:10:26 tipo: 3
+ 01-10-26inicio subida de queja  
+ 2018-07-27 01:10:26 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php102C.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 01:10:26 llamando a getConextion:: 
+ 01-10-26inicio de conexion a la base de datos  <br/>
+ 01-10-26conexion exitosa? <br/>00000
+2018-07-27 01:10:26 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 01:10:26 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 01:10:26 fileName: printer.PNG
+ 2018-07-27 01:10:26 tipo: 3
+ 01-14-46inicio subida de queja  
+ 2018-07-27 01:14:46 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php760.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-27 01:14:46 llamando a getConextion:: 
+ 01-14-46inicio de conexion a la base de datos  <br/>
+ 01-14-46conexion exitosa? <br/>
+2018-07-27 01:14:46 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+2018-07-27 01:14:46 error al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','jhguygu',6,now(),'')
+ 2018-07-27 01:14:46 fileName: printer.PNG
+ 2018-07-27 01:14:46 tipo: 3
+ 15-37-36inicio subida de queja  
+ 2018-07-28 15:37:37 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php66D7.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:37:37 llamando a getConextion:: 
+ 15-37-37inicio de conexion a la base de datos  <br/>
+ 15-37-37conexion exitosa? <br/>
+2018-07-28 15:37:37 query insert case:: INSERT INTO casos VALUES(0,1,1,'mensaje 1','descripciocn 1',6,now(),'')
+2018-07-28 15:37:37 error al grabar:: INSERT INTO casos VALUES(0,1,1,'mensaje 1','descripciocn 1',6,now(),'')
+ 2018-07-28 15:37:37 fileName: printer.PNG
+ 2018-07-28 15:37:38 tipo: 3
+ 15-45-59inicio subida de queja  
+ 2018-07-28 15:46:01 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php1333.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:46:01 llamando a getConextion:: 
+ 15-46-01inicio de conexion a la base de datos  <br/>
+ 15-46-01conexion exitosa? <br/>
+2018-07-28 15:46:01 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 1',6,now(),'')
+2018-07-28 15:46:01 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 1',6,now(),'')
+ 2018-07-28 15:46:01 fileName: printer.PNG
+ 2018-07-28 15:46:01 tipo: 3
+ 15-46-09inicio subida de queja  
+ 2018-07-28 15:46:09 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php3B4E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:46:09 llamando a getConextion:: 
+ 15-46-09inicio de conexion a la base de datos  <br/>
+ 15-46-09conexion exitosa? <br/>
+2018-07-28 15:46:09 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 2',6,now(),'')
+2018-07-28 15:46:10 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 2',6,now(),'')
+ 2018-07-28 15:46:10 fileName: printer.PNG
+ 2018-07-28 15:46:10 tipo: 3
+ 15-50-16inicio subida de queja  
+ 2018-07-28 15:50:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpFE90.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:50:16 llamando a getConextion:: 
+ 15-50-16inicio de conexion a la base de datos  <br/>
+ 15-50-16conexion exitosa? <br/>
+2018-07-28 15:50:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 3',6,now(),'')
+2018-07-28 15:50:16 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripciòn 3',6,now(),'')
+ 2018-07-28 15:50:16 fileName: printer.PNG
+ 2018-07-28 15:50:16 tipo: 3
+ 15-50-35inicio subida de queja  
+ 2018-07-28 15:50:36 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php4B0B.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:50:36 llamando a getConextion:: 
+ 15-50-36inicio de conexion a la base de datos  <br/>
+ 15-50-36conexion exitosa? <br/>
+2018-07-28 15:50:36 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripcin 4',6,now(),'')
+2018-07-28 15:50:36 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripcin 4',6,now(),'')
+ 2018-07-28 15:50:36 fileName: printer.PNG
+ 2018-07-28 15:50:36 tipo: 3
+ 15-55-03inicio subida de queja  
+ 2018-07-28 15:55:04 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php6066.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:55:04 llamando a getConextion:: 
+ 15-55-04inicio de conexion a la base de datos  <br/>
+ 15-55-04conexion exitosa? <br/>
+2018-07-28 15:55:04 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo','descripcion 5',6,now(),'')
+2018-07-28 15:55:04 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo','descripcion 5',6,now(),'')
+ 2018-07-28 15:55:04 fileName: printer.PNG
+ 2018-07-28 15:55:04 tipo: 3
+ 15-56-34inicio subida de queja  
+ 2018-07-28 15:56:34 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpC19D.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 15:56:34 llamando a getConextion:: 
+ 15-56-34inicio de conexion a la base de datos  <br/>
+ 15-56-34conexion exitosa? <br/>
+2018-07-28 15:56:34 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripcion 6',6,now(),'')
+2018-07-28 15:56:34 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','descripcion 6',6,now(),'')
+ 2018-07-28 15:56:34 fileName: printer.PNG
+ 2018-07-28 15:56:34 tipo: 3
+ 16-06-15inicio subida de queja  
+ 2018-07-28 16:06:18 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpA1C6.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:06:18 llamando a getConextion:: 
+ 16-06-18inicio de conexion a la base de datos  <br/>
+ 16-06-18conexion exitosa? <br/>
+2018-07-28 16:06:18 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+2018-07-28 16:06:18 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+ 2018-07-28 16:06:18 fileName: printer.PNG
+ 2018-07-28 16:06:18 tipo: 3
+ 16-06-26inicio subida de queja  
+ 2018-07-28 16:06:27 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpCC9F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:06:27 llamando a getConextion:: 
+ 16-06-27inicio de conexion a la base de datos  <br/>
+ 16-06-27conexion exitosa? <br/>
+2018-07-28 16:06:27 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+2018-07-28 16:06:27 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+ 2018-07-28 16:06:27 fileName: printer.PNG
+ 2018-07-28 16:06:27 tipo: 3
+ 16-06-45inicio subida de queja  
+ 2018-07-28 16:06:46 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php168A.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:06:46 llamando a getConextion:: 
+ 16-06-46inicio de conexion a la base de datos  <br/>
+ 16-06-46conexion exitosa? <br/>
+2018-07-28 16:06:46 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+2018-07-28 16:06:46 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','descripcion 34',6,now(),'')
+ 2018-07-28 16:06:46 fileName: printer.PNG
+ 2018-07-28 16:06:46 tipo: 3
+ 16-08-35inicio subida de queja  
+ 2018-07-28 16:08:35 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpC257.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:08:35 llamando a getConextion:: 
+ 16-08-35inicio de conexion a la base de datos  <br/>
+ 16-08-35conexion exitosa? <br/>
+2018-07-28 16:08:35 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 4','descripcion 444',6,now(),'')
+2018-07-28 16:08:35 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 4','descripcion 444',6,now(),'')
+ 2018-07-28 16:08:35 fileName: printer.PNG
+ 2018-07-28 16:08:35 tipo: 3
+ 16-10-34inicio subida de queja  
+ 2018-07-28 16:10:35 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php967C.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:10:35 llamando a getConextion:: 
+ 16-10-35inicio de conexion a la base de datos  <br/>
+ 16-10-35conexion exitosa? <br/>
+2018-07-28 16:10:35 query insert case:: INSERT INTO casos VALUES(0,1,1,'tiutlo2','mensaje 2',6,now(),'')
+2018-07-28 16:10:35 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'tiutlo2','mensaje 2',6,now(),'')
+ 2018-07-28 16:10:35 fileName: printer.PNG
+ 2018-07-28 16:10:35 tipo: 3
+ 16-26-42inicio subida de queja  
+ 2018-07-28 16:26:42 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php5871.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:26:42 llamando a getConextion:: 
+ 16-26-42inicio de conexion a la base de datos  <br/>
+ 16-26-42conexion exitosa? <br/>
+2018-07-28 16:26:42 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','mensaje 222',6,now(),'')
+2018-07-28 16:26:42 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','mensaje 222',6,now(),'')
+ 2018-07-28 16:26:42 fileName: printer.PNG
+ 2018-07-28 16:26:42 tipo: 3
+ 2018-07-28 16:26:42 archivo a cargar: Array
+ 16-30-23inicio subida de queja  
+ 2018-07-28 16:30:23 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpB8E4.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:30:23 llamando a getConextion:: 
+ 16-30-23inicio de conexion a la base de datos  <br/>
+ 16-30-23conexion exitosa? <br/>
+2018-07-28 16:30:23 query insert case:: INSERT INTO casos VALUES(0,1,1,'jnkj','lknl',6,now(),'')
+2018-07-28 16:30:23 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'jnkj','lknl',6,now(),'')
+ 2018-07-28 16:30:23 fileName: printer.PNG
+ 2018-07-28 16:30:23 tipo: 3
+ 2018-07-28 16:30:23 archivo a cargar: Array
+(
+    [0] => C:\wamp64\tmp\phpB8E4.tmp
+    [1] => 
+    [2] => 
+)
+
+ 16-33-06inicio subida de queja  
+ 2018-07-28 16:33:06 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php34F1.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:33:06 llamando a getConextion:: 
+ 16-33-06inicio de conexion a la base de datos  <br/>
+ 16-33-06conexion exitosa? <br/>
+2018-07-28 16:33:06 query insert case:: INSERT INTO casos VALUES(0,1,1,'jnkj','lknl',6,now(),'')
+2018-07-28 16:33:06 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'jnkj','lknl',6,now(),'')
+ 2018-07-28 16:33:06 fileName: printer.PNG
+ 2018-07-28 16:33:06 tipo: 3
+ 2018-07-28 16:33:06 archivo a cargar: Array
+(
+    [0] => C:\wamp64\tmp\php34F1.tmp
+    [1] => 
+    [2] => 
+)
+
+ 16-37-23inicio subida de queja  
+ 2018-07-28 16:37:23 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php22ED.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 161810
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-28 16:37:23 llamando a getConextion:: 
+ 16-37-23inicio de conexion a la base de datos  <br/>
+ 16-37-23conexion exitosa? <br/>
+2018-07-28 16:37:23 query insert case:: INSERT INTO casos VALUES(0,1,1,'mensj','sdjsjsjs',6,now(),'')
+2018-07-28 16:37:23 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'mensj','sdjsjsjs',6,now(),'')
+ 2018-07-28 16:37:23 fileName: Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+ 2018-07-28 16:37:23 tipo: 2
+2018-07-28 16:37:24 query de las imangenes ::INSERT INTO imagenes VALUES(0,'Dibujos-de-conejos-de-pascua-para-niños-9.jpg','sdjsjsjs','/uploads/',1,1,18,'','')
+2018-07-28 16:37:24 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-28 16:37:24 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-28 16:37:24 fileName: 
+ 2018-07-28 16:37:24 tipo: 
+ 2018-07-28 16:37:24 fileName: 
+ 2018-07-28 16:37:24 tipo: 
+ 00-43-16inicio subida de queja  
+ 2018-07-29 00:43:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpF7D2.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 161810
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 00:43:16 llamando a getConextion:: 
+ 00-43-16inicio de conexion a la base de datos  <br/>
+ 00-43-16conexion exitosa? <br/>
+2018-07-29 00:43:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'jsjsj','jsjsj',6,now(),'')
+2018-07-29 00:43:16 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'jsjsj','jsjsj',6,now(),'')
+ 2018-07-29 00:43:16 fileName: Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+ 2018-07-29 00:43:16 tipo: 2
+2018-07-29 00:43:16 query de las imangenes ::INSERT INTO imagenes VALUES(0,'Dibujos-de-conejos-de-pascua-para-niños-9.jpg','jsjsj','/uploads/',1,1,19,'','')
+2018-07-29 00:43:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-29 00:43:16 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-29 00:43:16 fileName: 
+ 2018-07-29 00:43:17 tipo: 
+ 2018-07-29 00:43:17 fileName: 
+ 2018-07-29 00:43:17 tipo: 
+ 00-47-53inicio subida de queja  
+ 2018-07-29 00:47:53 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php33CF.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 161810
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 00:47:53 llamando a getConextion:: 
+ 00-47-53inicio de conexion a la base de datos  <br/>
+ 00-47-53conexion exitosa? <br/>
+2018-07-29 00:47:53 query insert case:: INSERT INTO casos VALUES(0,1,1,'bjh','hvjh',6,now(),'')
+2018-07-29 00:47:53 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'bjh','hvjh',6,now(),'')
+ 2018-07-29 00:47:53 fileName: Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+ 2018-07-29 00:47:53 tipo: 2
+2018-07-29 00:47:53 query de las imangenes ::INSERT INTO imagenes VALUES(0,'Dibujos-de-conejos-de-pascua-para-niños-9.jpg','hvjh','/uploads/',1,1,20,'','')
+2018-07-29 00:47:54 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-29 00:47:54 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-29 00:47:54 fileName: 
+ 2018-07-29 00:47:54 tipo: 
+ 2018-07-29 00:47:54 fileName: 
+ 2018-07-29 00:47:54 tipo: 
+ 00-50-17inicio subida de queja  
+ 2018-07-29 00:50:17 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Captura.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php64E9.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 557546
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 00:50:17 llamando a getConextion:: 
+ 00-50-17inicio de conexion a la base de datos  <br/>
+ 00-50-17conexion exitosa? <br/>
+2018-07-29 00:50:17 query insert case:: INSERT INTO casos VALUES(0,1,1,'hjjhj','jhgjh',6,now(),'')
+2018-07-29 00:50:17 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'hjjhj','jhgjh',6,now(),'')
+ 2018-07-29 00:50:17 fileName: Captura.PNG
+ 2018-07-29 00:50:17 tipo: 3
+ 2018-07-29 00:50:17 archivo a cargar: Array
+(
+    [0] => C:\Windows\Temp\php64E9.tmp
+    [1] => 
+    [2] => 
+)
+
+ 01-18-50inicio subida de queja  
+ 2018-07-29 01:18:50 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Captura.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php89AA.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 557546
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 01:18:50 llamando a getConextion:: 
+ 01-18-50inicio de conexion a la base de datos  <br/>
+ 01-18-50conexion exitosa? <br/>
+2018-07-29 01:18:50 query insert case:: INSERT INTO casos VALUES(0,1,1,'fgegergeerg','erg',6,now(),'')
+2018-07-29 01:18:51 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'fgegergeerg','erg',6,now(),'')
+ 2018-07-29 01:18:51 fileName: Captura.PNG
+ 2018-07-29 01:18:51 tipo: 3
+ 2018-07-29 01:18:51 archivo a cargar: C:\Windows\Temp\php89AA.tmp
+ 01-26-57inicio subida de queja  
+ 2018-07-29 01:26:57 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpF573.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 161810
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 01:26:57 llamando a getConextion:: 
+ 01-26-57inicio de conexion a la base de datos  <br/>
+ 01-26-57conexion exitosa? <br/>
+2018-07-29 01:26:57 query insert case:: INSERT INTO casos VALUES(0,1,1,'fsdf','rwer',6,now(),'')
+2018-07-29 01:26:57 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'fsdf','rwer',6,now(),'')
+ 2018-07-29 01:26:57 fileName: Dibujos-de-conejos-de-pascua-para-niños-9.jpg
+ 2018-07-29 01:26:57 tipo: 2
+2018-07-29 01:26:57 query de las imangenes ::INSERT INTO imagenes VALUES(0,'Dibujos-de-conejos-de-pascua-para-niños-9.jpg','rwer','/uploads/',1,1,23,'','')
+2018-07-29 01:26:57 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.jpg',imagen_ruta='/uploads/0.jpg',imagen_resized='/uploads/thumbnails/0.jpg', imagen_detail = '/uploads/details/0.jpg' WHERE imagen_id=0
+ 2018-07-29 01:26:57 ruta para guardar: C:\wamp64\www\brushed\_include\php/../../uploads/0.jpg
+ 2018-07-29 01:26:57 fileName: 
+ 2018-07-29 01:26:57 tipo: 
+ 2018-07-29 01:26:57 fileName: 
+ 2018-07-29 01:26:57 tipo: 
+ 01-37-01inicio subida de queja  
+ 2018-07-29 01:37:01 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php2FA2.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 01:37:01 llamando a getConextion:: 
+ 01-37-01inicio de conexion a la base de datos  <br/>
+ 01-37-01conexion exitosa? <br/>
+2018-07-29 01:37:02 query insert case:: INSERT INTO casos VALUES(0,1,1,'jkj','jj',6,now(),'')
+2018-07-29 01:37:02 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'jkj','jj',6,now(),'')
+ 2018-07-29 01:37:02 fileName: printer.PNG
+ 2018-07-29 01:37:02 tipo: 3
+ 2018-07-29 01:37:02 archivo a cargar: C:\Windows\Temp\php2FA2.tmp
+ 02-15-17inicio subida de queja  
+ 2018-07-29 02:15:17 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php368F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 02:15:17 llamando a getConextion:: 
+ 02-15-17inicio de conexion a la base de datos  <br/>
+ 02-15-17conexion exitosa? <br/>
+2018-07-29 02:15:17 query insert case:: INSERT INTO casos VALUES(0,1,1,'ygyugu','hgvjv',6,now(),'')
+2018-07-29 02:15:17 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'ygyugu','hgvjv',6,now(),'')
+ 2018-07-29 02:15:17 fileName: printer.PNG
+ 2018-07-29 02:15:17 tipo: 3
+ 2018-07-29 02:15:17 archivo a cargar: C:\Windows\Temp\php368F.tmp
+ 02-23-59inicio subida de queja  
+ 2018-07-29 02:23:59 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php2CC5.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 02:23:59 llamando a getConextion:: 
+ 02-23-59inicio de conexion a la base de datos  <br/>
+ 02-23-59conexion exitosa? <br/>
+2018-07-29 02:23:59 query insert case:: INSERT INTO casos VALUES(0,1,1,'fgbsfg','sgfh',6,now(),'')
+2018-07-29 02:23:59 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'fgbsfg','sgfh',6,now(),'')
+ 2018-07-29 02:23:59 fileName: printer.PNG
+ 2018-07-29 02:23:59 tipo: 3
+ 2018-07-29 02:23:59 archivo a cargar: C:\Windows\Temp\php2CC5.tmp
+2018-07-29 02:23:59 query de las imangenes ::INSERT INTO imagenes VALUES(0,'printer.PNG','sgfh','/uploads/',1,1,26,'','')
+2018-07-29 02:23:59 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.png',imagen_ruta='/uploads/0.png',imagen_resized='/uploads/thumbnails/0.png', imagen_detail = '/uploads/details/0.png' WHERE imagen_id=0
+ 2018-07-29 02:23:59 fileName: 
+ 2018-07-29 02:23:59 tipo: 
+ 2018-07-29 02:23:59 fileName: 
+ 2018-07-29 02:23:59 tipo: 
+ 02-27-56inicio subida de queja  
+ 2018-07-29 02:27:56 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpCDDA.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 02:27:56 llamando a getConextion:: 
+ 02-27-56inicio de conexion a la base de datos  <br/>
+ 02-27-56conexion exitosa? <br/>
+2018-07-29 02:27:56 query insert case:: INSERT INTO casos VALUES(0,1,1,'ga','ggsdf',6,now(),'')
+2018-07-29 02:27:56 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'ga','ggsdf',6,now(),'')
+ 2018-07-29 02:27:56 fileName: printer.PNG
+ 2018-07-29 02:27:56 tipo: 3
+ 2018-07-29 02:27:56 archivo a cargar: C:\Windows\Temp\phpCDDA.tmp
+2018-07-29 02:27:56 query de las imangenes ::INSERT INTO imagenes VALUES(0,'printer.PNG','ggsdf','/uploads/',1,1,27,'','')
+2018-07-29 02:27:57 actualiza nombre ::UPDATE imagenes SET imagen_nombre='0.png',imagen_ruta='/uploads/0.png',imagen_resized='/uploads/thumbnails/0.png', imagen_detail = '/uploads/details/0.png' WHERE imagen_id=0
+ 2018-07-29 02:27:57 fileName: 
+ 2018-07-29 02:27:57 tipo: 
+ 2018-07-29 02:27:57 fileName: 
+ 2018-07-29 02:27:57 tipo: 
+ 02-42-45inicio subida de queja  
+ 2018-07-29 02:42:45 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => printer.PNG
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php5AD9.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 156729
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 02:42:45 llamando a getConextion:: 
+ 02-42-45inicio de conexion a la base de datos  <br/>
+ 02-42-45conexion exitosa? <br/>
+2018-07-29 02:42:45 query insert case:: INSERT INTO casos VALUES(0,1,1,'aaaaaaaa','bbbbbbbbb',6,now(),'')
+2018-07-29 02:42:45 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'aaaaaaaa','bbbbbbbbb',6,now(),'')
+ 2018-07-29 02:42:45 fileName: printer.PNG
+ 2018-07-29 02:42:45 tipo: 3
+ 2018-07-29 02:42:45 archivo a cargar: C:\Windows\Temp\php5AD9.tmp
+2018-07-29 02:42:45 query de las imagenes ::INSERT INTO imagenes VALUES(0,'printer.PNG','bbbbbbbbb','/uploads/',1,1,28,'','')
+2018-07-29 02:42:45 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.png',imagen_ruta='/uploads/1.png',imagen_resized='/uploads/thumbnails/1.png', imagen_detail = '/uploads/details/1.png' WHERE imagen_id=1
+ 2018-07-29 02:42:45 fileName: 
+ 2018-07-29 02:42:45 tipo: 
+ 2018-07-29 02:42:45 fileName: 
+ 2018-07-29 02:42:45 tipo: 
+ 03-02-24inicio subida de queja  
+ 2018-07-29 03:02:24 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => webcam-toy-foto1.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php5B8E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 33831
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:02:24 llamando a getConextion:: 
+ 03-02-24inicio de conexion a la base de datos  <br/>
+ 03-02-24conexion exitosa? <br/>
+2018-07-29 03:02:24 query insert case:: INSERT INTO casos VALUES(0,1,1,'wew','rere',6,now(),'')
+2018-07-29 03:02:24 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'wew','rere',6,now(),'')
+ 2018-07-29 03:02:24 fileName: webcam-toy-foto1.jpg
+ 2018-07-29 03:02:24 tipo: 2
+2018-07-29 03:02:24 query de las imagenes ::INSERT INTO imagenes VALUES(0,'webcam-toy-foto1.jpg','rere','/uploads/',1,1,29,'','')
+2018-07-29 03:02:24 actualiza nombre ::UPDATE imagenes SET imagen_nombre='2.jpg',imagen_ruta='/uploads/2.jpg',imagen_resized='/uploads/thumbnails/2.jpg', imagen_detail = '/uploads/details/2.jpg' WHERE imagen_id=2
+ 2018-07-29 03:02:24 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\2.jpg
+ 2018-07-29 03:02:24 fileName: 
+ 2018-07-29 03:02:25 tipo: 
+ 2018-07-29 03:02:25 fileName: 
+ 2018-07-29 03:02:25 tipo: 
+ 03-08-17inicio subida de queja  
+ 2018-07-29 03:08:17 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170910_214636_521.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpBE39.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 290913
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:08:17 llamando a getConextion:: 
+ 03-08-17inicio de conexion a la base de datos  <br/>
+ 03-08-17conexion exitosa? <br/>
+2018-07-29 03:08:17 query insert case:: INSERT INTO casos VALUES(0,1,1,'dddd','eeeeee',6,now(),'')
+2018-07-29 03:08:17 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'dddd','eeeeee',6,now(),'')
+ 2018-07-29 03:08:17 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-29 03:08:17 tipo: 2
+2018-07-29 03:08:17 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','eeeeee','/uploads/',1,1,30,'','')
+2018-07-29 03:08:17 actualiza nombre ::UPDATE imagenes SET imagen_nombre='3.jpg',imagen_ruta='/uploads/3.jpg',imagen_resized='/uploads/thumbnails/3.jpg', imagen_detail = '/uploads/details/3.jpg' WHERE imagen_id=3
+ 2018-07-29 03:08:17 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\3.jpg
+ 2018-07-29 03:08:17 fileName: 
+ 2018-07-29 03:08:17 tipo: 
+ 2018-07-29 03:08:18 fileName: 
+ 2018-07-29 03:08:18 tipo: 
+ 03-18-49inicio subida de queja  
+ 2018-07-29 03:18:49 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_111947.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php5F9E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 590532
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:18:49 llamando a getConextion:: 
+ 03-18-49inicio de conexion a la base de datos  <br/>
+ 03-18-49conexion exitosa? <br/>
+2018-07-29 03:18:49 query insert case:: INSERT INTO casos VALUES(0,1,1,'cxx','zxcv',6,now(),'')
+2018-07-29 03:18:49 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'cxx','zxcv',6,now(),'')
+ 2018-07-29 03:18:49 fileName: IMG_20170930_111947.png
+ 2018-07-29 03:18:49 tipo: 3
+ 2018-07-29 03:18:49 archivo a cargar: C:\Windows\Temp\php5F9E.tmp
+2018-07-29 03:18:49 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_111947.png','zxcv','/uploads/',1,1,31,'','')
+2018-07-29 03:18:49 actualiza nombre ::UPDATE imagenes SET imagen_nombre='4.png',imagen_ruta='/uploads/4.png',imagen_resized='/uploads/thumbnails/4.png', imagen_detail = '/uploads/details/4.png' WHERE imagen_id=4
+ 03-34-30inicio subida de queja  
+ 2018-07-29 03:34:30 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-01-08-22-35.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpBF5F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 640316
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:34:30 llamando a getConextion:: 
+ 03-34-30inicio de conexion a la base de datos  <br/>
+ 03-34-30conexion exitosa? <br/>
+2018-07-29 03:34:30 query insert case:: INSERT INTO casos VALUES(0,1,1,'qwqwqwq','wewewew',6,now(),'')
+2018-07-29 03:34:30 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'qwqwqwq','wewewew',6,now(),'')
+ 2018-07-29 03:34:30 fileName: Screenshot_2017-09-01-08-22-35.png
+ 2018-07-29 03:34:30 tipo: 3
+ 2018-07-29 03:34:30 archivo a cargar: C:\Windows\Temp\phpBF5F.tmp
+2018-07-29 03:34:31 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-01-08-22-35.png','wewewew','C:\wamp64\www\brushed\_include\php/uploads/',1,1,32,'','')
+2018-07-29 03:34:31 actualiza nombre ::UPDATE imagenes SET imagen_nombre='5.png',imagen_ruta='/uploads/5.png',imagen_resized='/uploads/thumbnails/5.png', imagen_detail = '/uploads/details/5.png' WHERE imagen_id=5
+ 03-43-52inicio subida de queja  
+ 2018-07-29 03:43:53 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-10-21-08-11.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php530E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 968635
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:43:53 llamando a getConextion:: 
+ 03-43-53inicio de conexion a la base de datos  <br/>
+ 03-43-53conexion exitosa? <br/>
+2018-07-29 03:43:53 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 1','tytytyt',6,now(),'')
+2018-07-29 03:43:53 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 1','tytytyt',6,now(),'')
+ 2018-07-29 03:43:53 fileName: Screenshot_2017-09-10-21-08-11.png
+ 2018-07-29 03:43:53 tipo: 3
+ 2018-07-29 03:43:53 archivo a cargar: C:\Windows\Temp\php530E.tmp
+2018-07-29 03:43:53 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-10-21-08-11.png','tytytyt','C:\wamp64\www\brushed\_include\php/uploads/',1,1,33,'','')
+2018-07-29 03:43:53 actualiza nombre ::UPDATE imagenes SET imagen_nombre='6.png',imagen_ruta='/uploads/6.png',imagen_resized=C:\wamp64\www\brushed\_include\php/uploads/'thumbnails/6.png', imagen_detail = '/uploads/details/6.png' WHERE imagen_id=6
+ 03-47-34inicio subida de queja  
+ 2018-07-29 03:47:34 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-10-21-12-22.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpB2A5.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 391862
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:47:34 llamando a getConextion:: 
+ 03-47-34inicio de conexion a la base de datos  <br/>
+ 03-47-34conexion exitosa? <br/>
+2018-07-29 03:47:34 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 199','hgvhgv',6,now(),'')
+2018-07-29 03:47:34 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 199','hgvhgv',6,now(),'')
+ 2018-07-29 03:47:34 fileName: Screenshot_2017-09-10-21-12-22.png
+ 2018-07-29 03:47:34 tipo: 3
+ 2018-07-29 03:47:34 archivo a cargar: C:\Windows\Temp\phpB2A5.tmp
+2018-07-29 03:47:34 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-10-21-12-22.png','hgvhgv','C:\wamp64\www\brushed\_include\php/uploads/',1,1,34,'','')
+2018-07-29 03:47:34 actualiza nombre ::UPDATE imagenes SET imagen_nombre='7.png',imagen_ruta='/uploads/7.png',imagen_resized='C:\wamp64\www\brushed\_include\php/uploads/' 'thumbnails/7.png', imagen_detail = '/uploads/details/7.png' WHERE imagen_id=7
+ 03-51-27inicio subida de queja  
+ 2018-07-29 03:51:27 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-19-09-01-03.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php40FD.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 665739
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 03:51:27 llamando a getConextion:: 
+ 03-51-27inicio de conexion a la base de datos  <br/>
+ 03-51-27conexion exitosa? <br/>
+2018-07-29 03:51:27 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulp','afadf',6,now(),'')
+2018-07-29 03:51:27 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulp','afadf',6,now(),'')
+ 2018-07-29 03:51:27 fileName: Screenshot_2017-09-19-09-01-03.png
+ 2018-07-29 03:51:27 tipo: 3
+ 2018-07-29 03:51:27 archivo a cargar: C:\Windows\Temp\php40FD.tmp
+2018-07-29 03:51:27 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-19-09-01-03.png','afadf','C:\wamp64\www\brushed\_include\php/uploads/',1,1,35,'','')
+2018-07-29 03:51:27 actualiza nombre ::UPDATE imagenes SET imagen_nombre='8.png',imagen_ruta='/uploads/8.png',imagen_resized='C:\wamp64\www\brushed\_include\php/uploads/ thumbnails/8.png', imagen_detail = '/uploads/details/8.png' WHERE imagen_id=8
+ 04-11-27inicio subida de queja  
+ 2018-07-29 04:11:27 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170910_214636_521.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php9243.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 290913
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:11:27 llamando a getConextion:: 
+ 04-11-27inicio de conexion a la base de datos  <br/>
+ 04-11-27conexion exitosa? <br/>
+2018-07-29 04:11:27 query insert case:: INSERT INTO casos VALUES(0,1,1,'wewewe','vfvfvf',6,now(),'')
+2018-07-29 04:11:27 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'wewewe','vfvfvf',6,now(),'')
+ 2018-07-29 04:11:27 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-29 04:11:27 tipo: 2
+2018-07-29 04:11:27 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','vfvfvf','C:\wamp64\www\brushed\_include\php/uploads/',1,1,36,'','')
+2018-07-29 04:11:27 actualiza nombre ::UPDATE imagenes SET imagen_nombre='9.jpg',imagen_ruta='/uploads/9.jpg',imagen_resized='C:\wamp64\www\brushed\_include\php/uploads/ thumbnails/9.jpg', imagen_detail = '/uploads/details/9.jpg' WHERE imagen_id=9
+ 2018-07-29 04:11:27 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\9.jpg
+ 04-13-52inicio subida de queja  
+ 2018-07-29 04:13:52 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_112002_564.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpC996.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 199453
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:13:52 llamando a getConextion:: 
+ 04-13-52inicio de conexion a la base de datos  <br/>
+ 04-13-52conexion exitosa? <br/>
+2018-07-29 04:13:52 query insert case:: INSERT INTO casos VALUES(0,1,1,'33ewe','dsfsd',6,now(),'')
+2018-07-29 04:13:52 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'33ewe','dsfsd',6,now(),'')
+ 2018-07-29 04:13:52 fileName: IMG_20170930_112002_564.jpg
+ 2018-07-29 04:13:52 tipo: 2
+2018-07-29 04:13:52 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_112002_564.jpg','dsfsd','C:\wamp64\www\brushed\_include\php/uploads/',1,1,37,'','')
+2018-07-29 04:13:52 actualiza nombre ::UPDATE imagenes SET imagen_nombre='10.jpg',imagen_ruta='/uploads/10.jpg',imagen_resized='C:\wamp64\www\brushed\_include\php/uploads/ thumbnails/10.jpg', imagen_detail = '/uploads/details/10.jpg' WHERE imagen_id=10
+ 2018-07-29 04:13:53 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\10.jpg
+ 04-18-00inicio subida de queja  
+ 2018-07-29 04:18:00 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php92A5.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:18:00 llamando a getConextion:: 
+ 04-18-00inicio de conexion a la base de datos  <br/>
+ 04-18-00conexion exitosa? <br/>
+2018-07-29 04:18:00 query insert case:: INSERT INTO casos VALUES(0,1,1,'rererere','fsdfsd',6,now(),'')
+2018-07-29 04:18:00 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'rererere','fsdfsd',6,now(),'')
+ 2018-07-29 04:18:00 fileName: IMG_20170917_083125.png
+ 2018-07-29 04:18:00 tipo: 3
+ 2018-07-29 04:18:00 archivo a cargar: C:\Windows\Temp\php92A5.tmp
+2018-07-29 04:18:01 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','fsdfsd','C:\wamp64\www\brushed\_include\php/uploads/',1,1,38,'','')
+2018-07-29 04:18:01 actualiza nombre ::UPDATE imagenes SET imagen_nombre='11.png',imagen_ruta='/uploads/11.png',imagen_resized='C:\wamp64\www\brushed\_include\php/uploads/ thumbnails/11.png', imagen_detail = '/uploads/details/11.png' WHERE imagen_id=11
+ 04-19-36inicio subida de queja  
+ 2018-07-29 04:19:36 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-10-21-08-11.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php689.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 968635
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:19:36 llamando a getConextion:: 
+ 04-19-36inicio de conexion a la base de datos  <br/>
+ 04-19-36conexion exitosa? <br/>
+2018-07-29 04:19:36 query insert case:: INSERT INTO casos VALUES(0,1,1,'fas','gsdfgd',6,now(),'')
+2018-07-29 04:19:36 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'fas','gsdfgd',6,now(),'')
+ 2018-07-29 04:19:36 fileName: Screenshot_2017-09-10-21-08-11.png
+ 2018-07-29 04:19:36 tipo: 3
+ 2018-07-29 04:19:36 archivo a cargar: C:\Windows\Temp\php689.tmp
+2018-07-29 04:19:36 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-10-21-08-11.png','gsdfgd','C:/wamp64/www/brushed/_include/php/uploads/',1,1,39,'','')
+2018-07-29 04:19:36 actualiza nombre ::UPDATE imagenes SET imagen_nombre='12.png',imagen_ruta='/uploads/12.png',imagen_resized='C:/wamp64/www/brushed/_include/php/uploads/ thumbnails/12.png', imagen_detail = '/uploads/details/12.png' WHERE imagen_id=12
+ 04-39-36inicio subida de queja  
+ 2018-07-29 04:39:36 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_112002_564.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php55EB.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 199453
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:39:36 llamando a getConextion:: 
+ 04-39-36inicio de conexion a la base de datos  <br/>
+ 04-39-36conexion exitosa? <br/>
+2018-07-29 04:39:36 query insert case:: INSERT INTO casos VALUES(0,1,1,'FG','DFSG',6,now(),'')
+2018-07-29 04:39:36 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'FG','DFSG',6,now(),'')
+ 2018-07-29 04:39:36 fileName: IMG_20170930_112002_564.jpg
+ 2018-07-29 04:39:36 tipo: 2
+2018-07-29 04:39:36 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_112002_564.jpg','DFSG','my.brushed.net/_include/php/uploads/',1,1,40,'','')
+2018-07-29 04:39:36 actualiza nombre ::UPDATE imagenes SET imagen_nombre='13.jpg',imagen_ruta='/uploads/13.jpg',imagen_resized='my.brushed.net/_include/php/uploads/ thumbnails/13.jpg', imagen_detail = '/uploads/details/13.jpg' WHERE imagen_id=13
+ 2018-07-29 04:39:36 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\13.jpg
+ 04-45-24inicio subida de queja  
+ 2018-07-29 04:45:24 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170922_223924.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpA656.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 412137
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:45:24 llamando a getConextion:: 
+ 04-45-24inicio de conexion a la base de datos  <br/>
+ 04-45-24conexion exitosa? <br/>
+2018-07-29 04:45:24 query insert case:: INSERT INTO casos VALUES(0,1,1,'asdg','sdfg',6,now(),'')
+2018-07-29 04:45:24 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'asdg','sdfg',6,now(),'')
+ 2018-07-29 04:45:24 fileName: IMG_20170922_223924.png
+ 2018-07-29 04:45:24 tipo: 3
+ 2018-07-29 04:45:24 archivo a cargar: C:\Windows\Temp\phpA656.tmp
+2018-07-29 04:45:24 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170922_223924.png','sdfg','my.brushed.net/_include/php/uploads/',1,1,41,'','')
+2018-07-29 04:45:24 actualiza nombre ::UPDATE imagenes SET imagen_nombre='14.png',imagen_ruta='my.brushed.net/_include/php/uploads//14.png',imagen_resized='my.brushed.net/_include/php/uploads/ thumbnails/14.png', imagen_detail = '/uploads/details/14.png' WHERE imagen_id=14
+ 04-48-39inicio subida de queja  
+ 2018-07-29 04:48:39 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170910_214636_521.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\phpA28F.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 290913
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:48:39 llamando a getConextion:: 
+ 04-48-40inicio de conexion a la base de datos  <br/>
+ 04-48-40conexion exitosa? <br/>
+2018-07-29 04:48:40 query insert case:: INSERT INTO casos VALUES(0,1,1,'sds','sdsd',6,now(),'')
+2018-07-29 04:48:40 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'sds','sdsd',6,now(),'')
+ 2018-07-29 04:48:40 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-29 04:48:40 tipo: 2
+2018-07-29 04:48:40 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','sdsd','/_include/php/uploads/',1,1,42,'','')
+2018-07-29 04:48:40 actualiza nombre ::UPDATE imagenes SET imagen_nombre='15.jpg',imagen_ruta='/_include/php/uploads/15.jpg',imagen_resized='/_include/php/uploads/ thumbnails/15.jpg', imagen_detail = '/uploads/details/15.jpg' WHERE imagen_id=15
+ 2018-07-29 04:48:40 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\15.jpg
+ 04-52-36inicio subida de queja  
+ 04-52-52inicio subida de queja  
+ 2018-07-29 04:52:52 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_111947.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Windows\Temp\php7B10.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 590532
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 04:52:52 llamando a getConextion:: 
+ 04-52-52inicio de conexion a la base de datos  <br/>
+ 04-52-52conexion exitosa? <br/>
+2018-07-29 04:52:52 query insert case:: INSERT INTO casos VALUES(0,1,1,'kggu','hgvjh',6,now(),'')
+2018-07-29 04:52:52 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'kggu','hgvjh',6,now(),'')
+ 2018-07-29 04:52:52 fileName: IMG_20170930_111947.png
+ 2018-07-29 04:52:52 tipo: 3
+ 2018-07-29 04:52:52 archivo a cargar: C:\Windows\Temp\php7B10.tmp
+2018-07-29 04:52:52 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_111947.png','hgvjh','/_include/php/uploads/',1,1,43,'','')
+2018-07-29 04:52:52 actualiza nombre ::UPDATE imagenes SET imagen_nombre='16.png',imagen_ruta='/_include/php/uploads/16.png',imagen_resized='/_include/php/uploads/thumbnails/16.png', imagen_detail = '/uploads/details/16.png' WHERE imagen_id=16
+ 07-28-25inicio subida de queja  
+ 2018-07-29 07:28:26 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170910_214636_521.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpE716.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 290913
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 07:28:26 llamando a getConextion:: 
+ 07-28-26inicio de conexion a la base de datos  <br/>
+ 07-28-26conexion exitosa? <br/>
+2018-07-29 07:28:26 query insert case:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','asdnfalsdn asdn',6,now(),'')
+2018-07-29 07:28:26 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'dfsdfsdfs','asdnfalsdn asdn',6,now(),'')
+ 2018-07-29 07:28:26 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-29 07:28:26 tipo: 2
+2018-07-29 07:28:26 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','asdnfalsdn asdn','/_include/php/uploads/',1,1,1,'','')
+2018-07-29 07:28:26 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.jpg',imagen_ruta='/_include/php/uploads/1.jpg',imagen_resized='/_include/php/uploads/thumbnails/1.jpg', imagen_detail = '/uploads/details/1.jpg' WHERE imagen_id=1
+ 2018-07-29 07:28:26 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\1.jpg
+ 07-39-34inicio subida de queja  
+ 2018-07-29 07:39:35 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_112002_564.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php19BF.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 199453
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 07:39:35 llamando a getConextion:: 
+ 07-39-35inicio de conexion a la base de datos  <br/>
+ 07-39-35conexion exitosa? <br/>
+2018-07-29 07:39:35 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','jkjj',6,now(),'')
+2018-07-29 07:39:35 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','jkjj',6,now(),'')
+ 2018-07-29 07:39:35 fileName: IMG_20170930_112002_564.jpg
+ 2018-07-29 07:39:35 tipo: 2
+2018-07-29 07:39:35 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_112002_564.jpg','jkjj','/_include/php/uploads/',1,1,1,'','')
+2018-07-29 07:39:35 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.jpg',imagen_ruta='/_include/php/uploads/1.jpg',imagen_resized='/_include/php/uploads/thumbnails/1.jpg', imagen_detail = '/uploads/details/1.jpg' WHERE imagen_id=1
+ 2018-07-29 07:39:35 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\1.jpg
+ 17-01-48inicio subida de queja  
+ 2018-07-29 17:01:48 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpE24C.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:01:48 llamando a getConextion:: 
+ 17-01-48inicio de conexion a la base de datos  <br/>
+ 17-01-48conexion exitosa? <br/>
+2018-07-29 17:01:48 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 3','asdfasd',6,now(),'')
+2018-07-29 17:01:48 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 3','asdfasd',6,now(),'')
+ 2018-07-29 17:01:48 fileName: IMG_20170917_083125.png
+ 2018-07-29 17:01:48 tipo: 3
+ 2018-07-29 17:01:48 archivo a cargar: C:\wamp64\tmp\phpE24C.tmp
+2018-07-29 17:01:48 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','asdfasd','/_include/php/uploads/',1,1,2,'','')
+2018-07-29 17:01:49 actualiza nombre ::UPDATE imagenes SET imagen_nombre='2.png',imagen_ruta='/_include/php/uploads/2.png',imagen_resized='/_include/php/uploads/thumbnails/2.png', imagen_detail = '/uploads/details/2.png' WHERE imagen_id=2
+ 17-16-16inicio subida de queja  
+ 2018-07-29 17:16:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php210C.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:16:16 llamando a getConextion:: 
+ 17-16-16inicio de conexion a la base de datos  <br/>
+ 17-16-16conexion exitosa? <br/>
+2018-07-29 17:16:16 query insert case:: INSERT INTO casos VALUES(0,1,1,'titulo 333','ansnsnsn',6,now(),'')
+2018-07-29 17:16:16 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'titulo 333','ansnsnsn',6,now(),'')
+ 2018-07-29 17:16:16 fileName: IMG_20170917_083125.png
+ 2018-07-29 17:16:16 tipo: 3
+ 2018-07-29 17:16:16 archivo a cargar: C:\wamp64\tmp\php210C.tmp
+2018-07-29 17:16:16 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','ansnsnsn','/_include/php/uploads/',1,1,1,'','')
+2018-07-29 17:16:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1png',imagen_ruta='/_include/php/uploads/1png',imagen_resized='/_include/php/uploads/thumbnails/1png', imagen_detail = '/uploads/details/1png' WHERE imagen_id=1
+ 17-20-30inicio subida de queja  
+ 2018-07-29 17:20:30 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php218.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:20:30 llamando a getConextion:: 
+ 17-20-30inicio de conexion a la base de datos  <br/>
+ 17-20-30conexion exitosa? <br/>
+2018-07-29 17:20:30 query insert case:: INSERT INTO casos VALUES(0,1,1,'fasdf','asdfgad',6,now(),'')
+2018-07-29 17:20:30 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'fasdf','asdfgad',6,now(),'')
+ 2018-07-29 17:20:30 fileName: IMG_20170917_083125.png
+ 2018-07-29 17:20:30 tipo: 3
+ 2018-07-29 17:20:30 archivo a cargar: C:\wamp64\tmp\php218.tmp
+2018-07-29 17:20:30 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','asdfgad','/_include/php/uploads/',1,1,1,'','')
+2018-07-29 17:20:30 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.png',imagen_ruta='/_include/php/uploads/1.png',imagen_resized='/_include/php/uploads/thumbnails/1.png', imagen_detail = '/uploads/details/1.png' WHERE imagen_id=1
+ 17-23-50inicio subida de queja  
+ 2018-07-29 17:23:50 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpE9E.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:23:50 llamando a getConextion:: 
+ 17-23-50inicio de conexion a la base de datos  <br/>
+ 17-23-50conexion exitosa? <br/>
+2018-07-29 17:23:50 query insert case:: INSERT INTO casos VALUES(0,1,1,'jsjsj','sjdjfas',6,now(),'')
+2018-07-29 17:23:50 èxito al grabar:: INSERT INTO casos VALUES(0,1,1,'jsjsj','sjdjfas',6,now(),'')
+ 2018-07-29 17:23:50 fileName: IMG_20170917_083125.png
+ 2018-07-29 17:23:50 tipo: 3
+ 2018-07-29 17:23:50 archivo a cargar: C:\wamp64\tmp\phpE9E.tmp
+2018-07-29 17:23:50 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','sjdjfas','/_include/php/uploads/',1,1,1,'','')
+2018-07-29 17:23:50 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.png',imagen_ruta='/_include/php/uploads/1.png',imagen_resized='/_include/php/uploads/thumbnails/1.png', imagen_detail = '/uploads/details/1.png' WHERE imagen_id=1
+ 17-57-00inicio subida de queja  
+ 2018-07-29 17:57:00 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-01-08-22-35.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php6D47.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 640316
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:57:00 llamando a getConextion:: 
+ 17-57-01inicio de conexion a la base de datos  <br/>
+ 17-57-01conexion exitosa? <br/>
+2018-07-29 17:57:01 query insert case:: INSERT INTO casos VALUES(0,1251,1,'jsjsjsj','jsjsjsj',6,now(),'')
+2018-07-29 17:57:01 èxito al grabar:: INSERT INTO casos VALUES(0,1251,1,'jsjsjsj','jsjsjsj',6,now(),'')
+ 2018-07-29 17:57:01 fileName: Screenshot_2017-09-01-08-22-35.png
+ 2018-07-29 17:57:01 tipo: 3
+ 2018-07-29 17:57:01 archivo a cargar: C:\wamp64\tmp\php6D47.tmp
+2018-07-29 17:57:01 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-01-08-22-35.png','jsjsjsj','/_include/php/uploads/',1,1251,2,'','')
+2018-07-29 17:57:01 actualiza nombre ::UPDATE imagenes SET imagen_nombre='2.png',imagen_ruta='/_include/php/uploads/2.png',imagen_resized='/_include/php/uploads/thumbnails/2.png', imagen_detail = '/uploads/details/2.png' WHERE imagen_id=2
+ 17-57-42inicio subida de queja  
+ 2018-07-29 17:57:42 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170922_223924.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpEC8.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 412137
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:57:42 llamando a getConextion:: 
+ 17-57-42inicio de conexion a la base de datos  <br/>
+ 17-57-42conexion exitosa? <br/>
+2018-07-29 17:57:42 query insert case:: INSERT INTO casos VALUES(0,1251,1,'dgssdfgs','sfgsdf',6,now(),'')
+2018-07-29 17:57:42 èxito al grabar:: INSERT INTO casos VALUES(0,1251,1,'dgssdfgs','sfgsdf',6,now(),'')
+ 2018-07-29 17:57:42 fileName: IMG_20170922_223924.png
+ 2018-07-29 17:57:42 tipo: 3
+ 2018-07-29 17:57:42 archivo a cargar: C:\wamp64\tmp\phpEC8.tmp
+2018-07-29 17:57:42 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170922_223924.png','sfgsdf','/_include/php/uploads/',1,1251,3,'','')
+2018-07-29 17:57:42 actualiza nombre ::UPDATE imagenes SET imagen_nombre='3.png',imagen_ruta='/_include/php/uploads/3.png',imagen_resized='/_include/php/uploads/thumbnails/3.png', imagen_detail = '/uploads/details/3.png' WHERE imagen_id=3
+ 17-58-22inicio subida de queja  
+ 2018-07-29 17:58:22 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170910_214636_521.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpAD5B.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 290913
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-29 17:58:22 llamando a getConextion:: 
+ 17-58-22inicio de conexion a la base de datos  <br/>
+ 17-58-22conexion exitosa? <br/>
+2018-07-29 17:58:22 query insert case:: INSERT INTO casos VALUES(0,1253,1,'asdf','asdfsa',6,now(),'')
+2018-07-29 17:58:22 èxito al grabar:: INSERT INTO casos VALUES(0,1253,1,'asdf','asdfsa',6,now(),'')
+ 2018-07-29 17:58:22 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-29 17:58:22 tipo: 2
+2018-07-29 17:58:22 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','asdfsa','/_include/php/uploads/',1,1253,4,'','')
+2018-07-29 17:58:23 actualiza nombre ::UPDATE imagenes SET imagen_nombre='4.jpg',imagen_ruta='/_include/php/uploads/4.jpg',imagen_resized='/_include/php/uploads/thumbnails/4.jpg', imagen_detail = '/uploads/details/4.jpg' WHERE imagen_id=4
+ 2018-07-29 17:58:23 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\4.jpg
