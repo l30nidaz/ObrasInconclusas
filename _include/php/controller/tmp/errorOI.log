@@ -3552,3 +3552,121 @@
 2018-07-29 17:58:22 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','asdfsa','/_include/php/uploads/',1,1253,4,'','')
 2018-07-29 17:58:23 actualiza nombre ::UPDATE imagenes SET imagen_nombre='4.jpg',imagen_ruta='/_include/php/uploads/4.jpg',imagen_resized='/_include/php/uploads/thumbnails/4.jpg', imagen_detail = '/uploads/details/4.jpg' WHERE imagen_id=4
  2018-07-29 17:58:23 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\4.jpg
+ 01-57-10inicio subida de queja  
+ 2018-07-30 01:57:10 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170930_112002_564.jpg
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php5DA.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 199453
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-07-30 01:57:10 llamando a getConextion:: 
+ 01-57-10inicio de conexion a la base de datos  <br/>
+ 01-57-10conexion exitosa? <br/>
+2018-07-30 01:57:10 query insert case:: INSERT INTO casos VALUES(0,1255,1,'ksksk','ajsjfas',6,now(),'')
+2018-07-30 01:57:10 èxito al grabar:: INSERT INTO casos VALUES(0,1255,1,'ksksk','ajsjfas',6,now(),'')
+ 2018-07-30 01:57:10 fileName: IMG_20170930_112002_564.jpg
+ 2018-07-30 01:57:10 tipo: 2
+2018-07-30 01:57:10 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_112002_564.jpg','ajsjfas','/_include/php/uploads/',1,1255,5,'','')
+2018-07-30 01:57:10 actualiza nombre ::UPDATE imagenes SET imagen_nombre='5.jpg',imagen_ruta='/_include/php/uploads/5.jpg',imagen_resized='/_include/php/uploads/thumbnails/5.jpg', imagen_detail = '/_include/php/uploads//details/5.jpg' WHERE imagen_id=5
+ 2018-07-30 01:57:10 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\5.jpg
+ 00-50-16inicio subida de queja  
+ 2018-07-31 00:50:16 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => IMG_20170917_083125.png
+                    [1] => IMG_20170930_112002_564.jpg
+                    [2] => IMG_20170910_214636_521.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => image/jpeg
+                    [2] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php21AE.tmp
+                    [1] => C:\wamp64\tmp\php222C.tmp
+                    [2] => C:\wamp64\tmp\php2307.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 1016138
+                    [1] => 199453
+                    [2] => 290913
+                )
+
+        )
+
+)
+
+2018-07-31 00:50:16 llamando a getConextion:: 
+ 00-50-16inicio de conexion a la base de datos  <br/>
+ 00-50-16conexion exitosa? <br/>
+2018-07-31 00:50:16 query insert case:: INSERT INTO casos VALUES(0,1253,1,'mensaje 2','mensaje 3',6,now(),'')
+2018-07-31 00:50:16 èxito al grabar:: INSERT INTO casos VALUES(0,1253,1,'mensaje 2','mensaje 3',6,now(),'')
+ 2018-07-31 00:50:16 fileName: IMG_20170917_083125.png
+ 2018-07-31 00:50:16 tipo: 3
+ 2018-07-31 00:50:16 archivo a cargar: C:\wamp64\tmp\php21AE.tmp
+2018-07-31 00:50:16 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170917_083125.png','mensaje 3','/_include/php/uploads/',1,1253,1,'','')
+2018-07-31 00:50:16 actualiza nombre ::UPDATE imagenes SET imagen_nombre='1.png',imagen_ruta='/_include/php/uploads/1.png',imagen_resized='/_include/php/uploads/thumbnails/1.png', imagen_detail = '/_include/php/uploads//details/1.png' WHERE imagen_id=1
+ 2018-07-31 00:50:17 fileName: IMG_20170930_112002_564.jpg
+ 2018-07-31 00:50:17 tipo: 2
+2018-07-31 00:50:17 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170930_112002_564.jpg','mensaje 3','/_include/php/uploads/',1,1253,1,'','')
+2018-07-31 00:50:17 actualiza nombre ::UPDATE imagenes SET imagen_nombre='2.jpg',imagen_ruta='/_include/php/uploads/2.jpg',imagen_resized='/_include/php/uploads/thumbnails/2.jpg', imagen_detail = '/_include/php/uploads//details/2.jpg' WHERE imagen_id=2
+ 2018-07-31 00:50:17 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\2.jpg
+ 2018-07-31 00:50:17 fileName: IMG_20170910_214636_521.jpg
+ 2018-07-31 00:50:17 tipo: 2
+2018-07-31 00:50:17 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','mensaje 3','/_include/php/uploads/',1,1253,1,'','')
+2018-07-31 00:50:17 actualiza nombre ::UPDATE imagenes SET imagen_nombre='3.jpg',imagen_ruta='/_include/php/uploads/3.jpg',imagen_resized='/_include/php/uploads/thumbnails/3.jpg', imagen_detail = '/_include/php/uploads//details/3.jpg' WHERE imagen_id=3
+ 2018-07-31 00:50:18 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\3.jpg

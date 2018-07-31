@@ -47,7 +47,7 @@ class Imagen {
     public function updateNameImage($newName,$id,$path){
         $this->connect2DB();
         $thumbnails='thumbnails/';
-        $query = "UPDATE imagenes SET imagen_nombre='$newName',imagen_ruta='$this->_path$newName',imagen_resized='$path$thumbnails$newName', imagen_detail = '/uploads/details/$newName' WHERE imagen_id=".$id;
+        $query = "UPDATE imagenes SET imagen_nombre='$newName',imagen_ruta='$this->_path$newName',imagen_resized='$path$thumbnails$newName', imagen_detail = '$this->_path details/$newName' WHERE imagen_id=".$id;
         error_log("\n".date("Y-m-d H:i:s") ." actualiza nombre ::".$query,3,"tmp/errorOI.log");
         $this->_mysqli->query($query);
     }

@@ -47,7 +47,7 @@ class modelCase {
             return $data;
                
         }else{
-            echo $query;
+            return 0;
         }
     }
     

@@ -147,7 +147,7 @@
                 ?>
                 <div class="imageDetail">
                     <img src="<?php echo $value['imagen_detail']; ?>">
-                    <p><?php echo $value['imagen_titulo'] ?></p>
+                    <p><?php echo $value['imagen_nombre'] ?></p>
                     <p><?php echo $value['imagen_descripcion'] ?></p>
 
                 </div>

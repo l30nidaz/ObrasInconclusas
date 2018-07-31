@@ -180,9 +180,11 @@ require_once "./_include/php/model/classes/modelCase.php";
 $caso = new modelCase();
 
 $distritosConCaso = $caso->getDistrictWithCases();
-foreach ($distritosConCaso as $distritoConCaso) {
-    $distritoValue = str_replace(' ', '_', $distritoConCaso['nombre']);
-    echo '<li><a href="#filter" data-option-value=".' . $distritoValue . '">' . $distritoConCaso["nombre"] . '</a></li>';
+if (is_array($distritosConCaso)){
+    foreach ($distritosConCaso as $distritoConCaso) {
+        $distritoValue = str_replace(' ', '_', $distritoConCaso['nombre']);
+        echo '<li><a href="#filter" data-option-value=".' . $distritoValue . '">' . $distritoConCaso["nombre"] . '</a></li>';
+    }
 }
 ?>
                                 <!--                        <li><a href="#filter" data-option-value=".photography">Photography</a></li>

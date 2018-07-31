@@ -2064,3 +2064,63 @@ z
                     (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
  23-32-00inicio de conexion a la base de datos  <br/>
  23-32-00conexion exitosa? <br/>
+ 01-56-35inicio de conexion a la base de datos  <br/>
+ 01-56-35conexion exitosa? <br/>
+2018-07-30 01:56:35 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 01-56-35inicio de conexion a la base de datos  <br/>
+ 01-56-35conexion exitosa? <br/>
+ 01-57-17inicio de conexion a la base de datos  <br/>
+ 01-57-17conexion exitosa? <br/>
+2018-07-30 01:57:17 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 01-57-17inicio de conexion a la base de datos  <br/>
+ 01-57-17conexion exitosa? <br/>
+ 13-07-56inicio de conexion a la base de datos  <br/>
+ 13-07-56conexion exitosa? <br/>
+2018-07-30 13:07:56 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 13-07-57inicio de conexion a la base de datos  <br/>
+ 13-07-57conexion exitosa? <br/>
+ 13-08-18inicio de conexion a la base de datos  <br/>
+ 13-08-18conexion exitosa? <br/>
+2018-07-30 13:08:18 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 13-08-18inicio de conexion a la base de datos  <br/>
+ 13-08-18conexion exitosa? <br/>
+ 13-10-37inicio de conexion a la base de datos  <br/>
+ 13-10-37conexion exitosa? <br/>
+2018-07-30 13:10:37 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 13-10-37inicio de conexion a la base de datos  <br/>
+ 13-10-37conexion exitosa? <br/>
+ 13-10-47inicio de conexion a la base de datos  <br/>
+ 13-10-47conexion exitosa? <br/>
+2018-07-30 13:10:48 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 13-10-48inicio de conexion a la base de datos  <br/>
+ 13-10-48conexion exitosa? <br/>
+ 13-10-48inicio de conexion a la base de datos  <br/>
+ 13-10-48conexion exitosa? <br/>
+2018-07-30 13:10:49 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 13-10-49inicio de conexion a la base de datos  <br/>
+ 13-10-49conexion exitosa? <br/>
+ 00-49-32inicio de conexion a la base de datos  <br/>
+ 00-49-32conexion exitosa? <br/>
+2018-07-31 00:49:32 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 00-49-32inicio de conexion a la base de datos  <br/>
+ 00-49-32conexion exitosa? <br/>
+ 00-50-30inicio de conexion a la base de datos  <br/>
+ 00-50-30conexion exitosa? <br/>
+2018-07-31 00:50:30 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 00-50-31inicio de conexion a la base de datos  <br/>
+ 00-50-31conexion exitosa? <br/>
+ 00-51-08inicio de conexion a la base de datos  <br/>
+ 00-51-08conexion exitosa? <br/>
+2018-07-31 00:51:08 query de las thumbnails ::SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+                    (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20
+ 00-51-08inicio de conexion a la base de datos  <br/>
+ 00-51-08conexion exitosa? <br/>
