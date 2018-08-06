@@ -156,7 +156,7 @@
 }
 }
 ?>
-        <div style="margin:0 auto;" class="fb-comments" data-href="brushed.net" data-numposts="5"></div>
+        <div style="margin:0 auto;" class="fb-comments" data-href="" data-numposts="5"></div>
         <!-- Your share button code -->
         <div class="fb-share-button"  data-href="http://www.cabroworld.com/2016/03/17/22-fotos-lugares-abandonados-te-dejaran-los-pelos-punta/" data-layout="button_count"> </div>
         <!-- end button code --> 

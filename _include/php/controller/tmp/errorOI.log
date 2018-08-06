@@ -3670,3 +3670,167 @@
 2018-07-31 00:50:17 query de las imagenes ::INSERT INTO imagenes VALUES(0,'IMG_20170910_214636_521.jpg','mensaje 3','/_include/php/uploads/',1,1253,1,'','')
 2018-07-31 00:50:17 actualiza nombre ::UPDATE imagenes SET imagen_nombre='3.jpg',imagen_ruta='/_include/php/uploads/3.jpg',imagen_resized='/_include/php/uploads/thumbnails/3.jpg', imagen_detail = '/_include/php/uploads//details/3.jpg' WHERE imagen_id=3
  2018-07-31 00:50:18 ruta para guardar: C:\wamp64\www\brushed\_include\php\uploads\3.jpg
+ 03-12-59inicio subida de queja  
+ 2018-08-06 03:12:59 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-01-08-22-35.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpE0C2.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 640316
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-08-06 03:12:59 llamando a getConextion:: 
+ 03-12-59inicio de conexion a la base de datos  <br/>
+ 03-12-59conexion exitosa? <br/>
+2018-08-06 03:12:59 query insert case:: INSERT INTO casos VALUES(0,1254,1,'mensaje','asdfkasd ',6,now(),'')
+2018-08-06 03:12:59 èxito al grabar:: INSERT INTO casos VALUES(0,1254,1,'mensaje','asdfkasd ',6,now(),'')
+ 2018-08-06 03:12:59 fileName: Screenshot_2017-09-01-08-22-35.png
+ 2018-08-06 03:12:59 tipo: 3
+ 2018-08-06 03:12:59 archivo a cargar: C:\wamp64\tmp\phpE0C2.tmp
+2018-08-06 03:13:00 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-01-08-22-35.png','asdfkasd ','/_include/php/uploads/',1,1254,2,'','')
+2018-08-06 03:13:00 actualiza nombre ::UPDATE imagenes SET imagen_nombre='4.png',imagen_ruta='/_include/php/uploads/4.png',imagen_resized='/_include/php/uploads/thumbnails/4.png', imagen_detail = '/_include/php/uploads/ details/4.png' WHERE imagen_id=4
+ 04-05-21inicio subida de queja  
+ 2018-08-06 04:05:21 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-10-21-12-22.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\phpD1D5.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 391862
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-08-06 04:05:21 llamando a getConextion:: 
+ 04-05-21inicio de conexion a la base de datos  <br/>
+ 04-05-21conexion exitosa? <br/>
+2018-08-06 04:05:21 query insert case:: INSERT INTO casos VALUES(0,1252,1,'mensa','fjfjfj',6,now(),'')
+2018-08-06 04:05:21 èxito al grabar:: INSERT INTO casos VALUES(0,1252,1,'mensa','fjfjfj',6,now(),'')
+ 2018-08-06 04:05:21 fileName: Screenshot_2017-09-10-21-12-22.png
+ 2018-08-06 04:05:21 tipo: 3
+ 2018-08-06 04:05:21 archivo a cargar: C:\wamp64\tmp\phpD1D5.tmp
+2018-08-06 04:05:21 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-10-21-12-22.png','fjfjfj','/_include/php/uploads/',1,1252,3,'','')
+2018-08-06 04:05:22 actualiza nombre ::UPDATE imagenes SET imagen_nombre='5.png',imagen_ruta='/_include/php/uploads/5.png',imagen_resized='/_include/php/uploads/thumbnails/5.png', imagen_detail = '/_include/php/uploads/details/5.png' WHERE imagen_id=5
+ 04-09-08inicio subida de queja  
+ 04-10-14inicio subida de queja  
+ 04-10-29inicio subida de queja  
+ 2018-08-06 04:10:29 files está compuesto por: Array
+(
+    [fileToUpload] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot_2017-09-10-21-08-11.png
+                    [1] => 
+                    [2] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => 
+                    [2] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\wamp64\tmp\php8600.tmp
+                    [1] => 
+                    [2] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 4
+                    [2] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 968635
+                    [1] => 0
+                    [2] => 0
+                )
+
+        )
+
+)
+
+2018-08-06 04:10:29 llamando a getConextion:: 
+ 04-10-30inicio de conexion a la base de datos  <br/>
+ 04-10-30conexion exitosa? <br/>
+2018-08-06 04:10:30 query insert case:: INSERT INTO casos VALUES(0,1262,1,'titulo 1','ooij',6,now(),'')
+2018-08-06 04:10:30 èxito al grabar:: INSERT INTO casos VALUES(0,1262,1,'titulo 1','ooij',6,now(),'')
+ 2018-08-06 04:10:30 fileName: Screenshot_2017-09-10-21-08-11.png
+ 2018-08-06 04:10:30 tipo: 3
+ 2018-08-06 04:10:30 archivo a cargar: C:\wamp64\tmp\php8600.tmp
+2018-08-06 04:10:30 query de las imagenes ::INSERT INTO imagenes VALUES(0,'Screenshot_2017-09-10-21-08-11.png','ooij','/_include/php/uploads/',1,1262,4,'','')
+2018-08-06 04:10:30 actualiza nombre ::UPDATE imagenes SET imagen_nombre='6.png',imagen_ruta='/_include/php/uploads/6.png',imagen_resized='/_include/php/uploads/thumbnails/6.png', imagen_detail = '/_include/php/uploads/details/6.png' WHERE imagen_id=6

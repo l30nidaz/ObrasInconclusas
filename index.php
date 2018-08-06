@@ -262,7 +262,7 @@ if (count($imagen_arr) > 0) {
                                     <!-- Item Project and Filter Name -->
                                     <li class="item-thumbs span3 video">
                                         <!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                                        <a class="hover-wrap fancybox-media" data-fancybox-group="video" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
+                                        <a class="hover-wrap fancybox-media" data-fancybox-group="video" title="Video Content From Vimeo" href="https://vimeo.com/283363701">
                                             <span class="overlay-img"></span>
                                             <span class="overlay-img-thumb font-icon-plus"></span>
                                         </a>

@@ -33,7 +33,7 @@ $().ready(function(){
                 processData: false,
                 method:"POST",
                 success: function (data) { 
-alert(data);                    var locationToGo = "#home-slider";
+                    var locationToGo = "#home-slider";
                     var resetForm=true;
                     var obj = JSON.parse(data);
                     if(!obj['isOk']){
