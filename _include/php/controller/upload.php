@@ -120,7 +120,7 @@ if(isset($_FILES['fileToUpload'])&& count($_FILES)>0){
             
             $detail = imagecreatetruecolor($detail_width, $detail_height);
             imagecopyresized($detail, $image, 0, 0, 0, 0, $detail_width, $detail_height, $width, $height);
-            imagejpeg($detail, dirname(__DIR__)."\uploads/details/$imageName",100);
+            imagejpeg($detail, dirname(__DIR__)."/uploads/details/$imageName",100);
             
             
             /**

@@ -49,16 +49,16 @@ class Imagen {
         $thumbnails='thumbnails/';
         $details='details';
         $query = "UPDATE imagenes SET imagen_nombre='$newName',imagen_ruta='$this->_path$newName',imagen_resized='$path$thumbnails$newName', imagen_detail = '$this->_path$details/$newName' WHERE imagen_id=".$id;
-        error_log("\n".date("Y-m-d H:i:s") ." actualiza nombre ::".$query,3,"tmp/errorOI.log");
+        error_log("\n".date("Y-m-d H:i:s") ." actualiza nombre ::".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
         $this->_mysqli->query($query);
     }
     
     
     public function getImages(){
         $this->connect2DB();
-        $query = "SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasInconclusas.imagenes i inner join distritos d ON
+        $query = "SELECT imagen_resized,imagen_ruta,d.distrito_nombre,imagen_nombre,imagen_descripcion,caso_id FROM obrasinconclusas.imagenes i inner join distritos d ON
                     (i.distrito_id = d.distrito_id) group by caso_id ORDER BY imagen_id DESC LIMIT 20";
-        error_log("\n".date("Y-m-d H:i:s") ." query de las thumbnails ::".$query,3,"tmp/errorOI.log");
+        error_log("\n".date("Y-m-d H:i:s") ." query de las thumbnails ::".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
         $result = $this->_mysqli->query($query);
         $data = array();
         if ($result->num_rows>0){
@@ -71,7 +71,7 @@ class Imagen {
     
     public function getImagesForCase($caso_id){
         $this->connect2DB();
-        $query  ="SELECT i.*,d.distrito_nombre FROM obrasInconclusas.imagenes i inner join distritos d on
+        $query  ="SELECT i.*,d.distrito_nombre FROM obrasinconclusas.imagenes i inner join distritos d on
                 (i.distrito_id = d.distrito_id)  where caso_id =".$caso_id;
         $result = $this->_mysqli->query($query);
         $data = array();
@@ -86,9 +86,9 @@ class Imagen {
     
     private function connect2DB() {
         $servername = 'localhost';
-        $username = "root";
-        $password = "root";
-        $dbname = "obrasInconclusas";
+        $username = "leonidaz";
+        $password = "Antuannete@22";
+        $dbname = "obrasinconclusas";
         $this->_mysqli = new mysqli($servername, $username, $password, $dbname);
 //        /* cambiar el conjunto de caracteres a utf8 */
         if (!$this->_mysqli->set_charset("utf8")) {

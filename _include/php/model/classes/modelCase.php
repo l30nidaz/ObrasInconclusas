@@ -21,7 +21,7 @@ class modelCase {
     
     public function getDistritos(){
         $this->getConnection();
-        $query = "SELECT distrito_id as id,distrito_nombre as nombre FROM obrasInconclusas.distritos where idProv=127";
+        $query = "SELECT distrito_id as id,distrito_nombre as nombre FROM obrasinconclusas.distritos where idProv=127";
         $result = $this->_mysqli->query($query);
         if ($result->num_rows>0){
             while($row=mysqli_fetch_array($result,MYSQLI_ASSOC)){
@@ -38,7 +38,7 @@ class modelCase {
     public function getDistrictWithCases(){
         $this->getConnection();
         $query = "SELECT d.distrito_nombre AS nombre,caso_id,d.distrito_id 
-                    FROM obrasInconclusas.casos c INNER JOIN distritos d ON (c.distrito_id = d.distrito_id) where d.idProv=127 GROUP BY distrito_nombre";
+                    FROM obrasinconclusas.casos c INNER JOIN distritos d ON (c.distrito_id = d.distrito_id) where d.idProv=127 GROUP BY distrito_nombre";
         $result = $this->_mysqli->query($query);
         if ($result->num_rows>0){
             while($row=mysqli_fetch_array($result,MYSQLI_ASSOC)){
@@ -52,16 +52,16 @@ class modelCase {
     }
     
     public function saveCase($distrito,$message,$title){ 
-        error_log("\n".date("Y-m-d H:i:s") ." llamando a getConextion:: ",3,"tmp/errorOI.log");
+        error_log("\n".date("Y-m-d H:i:s") ." llamando a getConextion:: ",3,"/home/uz2dscmwkckm/public_html/errorOI.log");
         $this->getConnection();
         $query="INSERT INTO casos VALUES(0,$distrito,1,'$title','$message',6,now(),'')";
-        error_log("\n".date("Y-m-d H:i:s") ." query insert case:: ".$query,3,"tmp/errorOI.log");
+        error_log("\n".date("Y-m-d H:i:s") ." query insert case:: ".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
         $this->_mysqli->query($query);
             if($this->_mysqli->insert_id > 0){
-                error_log("\n".date("Y-m-d H:i:s") ." èxito al grabar:: ".$query,3,"tmp/errorOI.log");
+                error_log("\n".date("Y-m-d H:i:s") ." èxito al grabar:: ".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
                 return $this->_mysqli->insert_id;                
             }else{
-                error_log("\n".date("Y-m-d H:i:s") ." error al grabar:: ".$query,3,"tmp/errorOI.log");
+                error_log("\n".date("Y-m-d H:i:s") ." error al grabar:: ".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
                 return 0;
             }
     }
@@ -73,7 +73,7 @@ class modelCase {
                             inner join imagenes i on (i.caso_id = c.caso_id)
                     WHERE caso_estado = 5 and c.usuario_id = ".$user_id;
         
-        error_log("\n ".date('Y-m-d H:i:s')." query para obtener los casos de un usuario: ".$query,3,"tmp/errorOI.log");
+        error_log("\n ".date('Y-m-d H:i:s')." query para obtener los casos de un usuario: ".$query,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
         $result = $this->_mysqli->query($query);
         if ($result->num_rows>0){
             while($row=mysqli_fetch_array($result,MYSQLI_ASSOC)){
@@ -90,21 +90,21 @@ class modelCase {
     public function getConnection(){
         
         $servername = 'localhost';
-        $username = "root";
-        $password = "root";
-        $dbname = "obrasInconclusas";
+        $username = 'leonidaz';
+        $password = 'Antuannete@22';
+        $dbname = 'obrasinconclusas';
         $this->_mysqli = new mysqli($servername, $username, $password, $dbname);
 //        /* cambiar el conjunto de caracteres a utf8 */
-        error_log("\n ".date('H-i-s')."inicio de conexion a la base de datos  <br/>",3,"tmp/errorOI.log");
+        error_log("\n ".date('H-i-s')."inicio de conexion a la base de datos  <br/>",3,"/tmp/errorOI.log");
         if (!$this->_mysqli->set_charset("utf8")) {
             printf("Error cargando el conjunto de caracteres utf8: %s\n", $this->_mysqli->error);
             exit();
         } else {
-            error_log("\n ".date('H-i-s')."conexion exitosa? <br/>",3,"tmp/errorOI.log");
+            error_log("\n ".date('H-i-s')."conexion exitosa? <br/>",3,"/home/uz2dscmwkckm/public_html/errorOI.log");
 //            printf("Conjunto de caracteres actual: %s\n", $this->_mysqli->character_set_name());
         }
         if (mysqli_connect_error()) {
-            error_log("\n ".date('H-i-s')."error al conectarse a la base de datos  <br/>".$this->_mysqli->connect_error,3,"tmp/errorOI.log");
+            error_log("\n ".date('H-i-s')."error al conectarse a la base de datos  <br/>".$this->_mysqli->connect_error,3,"/home/uz2dscmwkckm/public_html/errorOI.log");
             /*die('Error de Conexión (' . mysqli_connect_errno() . ') '
         . mysqli_connect_error());*/
         }else{

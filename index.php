@@ -492,7 +492,7 @@ foreach ($distritos as $distrito) {
 
                             <p class="complaint-submit" style="width: 20%;">
                                 <!--<a id="complaint-submit" class="submit" href="#">Enviar email</a>-->
-                                <input type="submit" class="submit" name="envio" value="Enviars" id="complaint-submit" style="margin-top: 10px" >    
+                                <input type="submit" class="submit" name="envio" value="Enviar" id="complaint-submit" style="margin-top: 10px" >    
 
                             </p>
                             <p class="contact-reset" style="width: 20%;">                	
